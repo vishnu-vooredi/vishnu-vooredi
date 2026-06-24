@@ -67,4 +67,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vishnu-vooredi&theme=dracula)](https://git.io/streak-stats)
