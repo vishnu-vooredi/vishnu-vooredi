@@ -1,3 +1,16 @@
+<h1 align="center">Hi, I'm Vishnuvardhan! <img src="https://media.giphy.com/media/hvRJCLFwcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+</p>
+
+### ⚡ Quick Summary
+* 💻 Senior CS Student focused on Distributed Systems.
+* 🛠️ Building tools that automate the boring stuff.
+* 🎨 Fun fact: I spend too much time tweaking my IDE theme.
+* 🔭 I’m currently working on Ransomshield
+* 📫 Reach me at: voorediv@gmail.com
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/main?type=waving&color=0B132B&height=200&section=header&text=Hey!%20I%20am%20Your%20Name&fontSize=45&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" />
@@ -53,4 +66,12 @@
 </p>
 
 ---
-
+### 📈 Current Focus
+```text
+■■■■■■■■■□  Backend Engineering (90%)
+■■■■■■□□□□  Machine Learning & GEN AI (60%)
+■■■■□□□□□□  MERN STACK (40%)
+### 🚀 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
