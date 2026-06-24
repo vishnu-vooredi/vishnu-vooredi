@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/main?type=waving&color=0B132B&height=200&section=header&text=Hey!%20I%20am%20Your%20Name&fontSize=45&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" />
 </p>
@@ -6,36 +6,11 @@
 <!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/Vishnuvardhan vooredi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href=""><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=leों&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/vishnu_183"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://hackerrank.com/vishnu vooredi"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" /> About Me
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>Hello there! I'm a Computer Science student specializing in AI and Machine Learning, with a strong foundation in competitive programming and algorithmic problem-solving. My technical focus centers on building practical GenAI applications. I am deeply passionate about open-source contribution and continuously adapting to modern developer tools.</p>
-      <p align="center">
-        <i><b>Student specializing in AI & ML</b><br>
-        <b>Competitive Programming & Problem Solving</b><br>
-        <b>Machine Learning & GEN AI</b><br>
-        <b>Open Source and Continuous Learning</b></i>
-      </p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- Floating Astronaut GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0cmN5amM0bXN6YWNmdDRwN3E1cmN5amM0bXN6YWNmdDRwN3E1JnRjPTE/t7QDel79v9w0P9iXk1/giphy.gif" width="200" alt="Astronaut" />
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Tech Stack
 
 ### Languages
 <p align="left">
@@ -79,15 +54,3 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" alt="Stats" width="25" /> Statistics
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark" alt="Contribution Graph" width="100%" />
-</p>
-
-<!-- GitHub Stats & Most Used Languages Side by Side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.net/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.net/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
