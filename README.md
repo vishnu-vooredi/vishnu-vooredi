@@ -67,8 +67,4 @@
 
 ---
 
-
-### 🚀 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
