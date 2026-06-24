@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vishnuvardhan! <img src="https://media.giphy.com/media/hvRJCLFwcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=Red&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### ⚡ Quick Summary
@@ -66,5 +66,10 @@
 </p>
 
 ---
+<!-- 1. Interactive Contribution Grid Snake Game Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishnu-vooredi/vishnu-vooredi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+</p>
+<h2 align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="25" /> GitHub Stats</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishnu-vooredi&theme=dracula)](https://git.io/streak-stats)
