@@ -66,11 +66,7 @@
 </p>
 
 ---
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" alt="Stats" width="25" /> Statistics</h2>
-<!-- 1. Interactive Contribution Grid Snake Game Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishnu-vooredi/vishnu-vooredi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
-</p>
+
 <h2 align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="25" /> GitHub Stats</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishnu-vooredi&theme=dracula)](https://git.io/streak-stats)
