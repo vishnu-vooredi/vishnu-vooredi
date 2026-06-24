@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=Red&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
-### ⚡ Quick Summary
+### ⚡About me:
 * 💻 Senior CS Student focused on Distributed Systems.
 * 🛠️ Building tools that automate the boring stuff.
 * 🎨 Fun fact: I spend too much time tweaking my IDE theme.
@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=0B132B&height=200&section=header&text=Hey!%20I%20am%20Your%20Name&fontSize=45&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/main?type=waving&color=0B132B&height=200&section=header&text=Hey!%20I%20am%20Your%20Name&fontSize=45&animation=fadeIn&fontColor=FFFFFF" alt=" " />
 </p>
 
 <!-- SOCIAL BADGES -->
