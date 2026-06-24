@@ -66,6 +66,7 @@
 </p>
 
 ---
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" alt="Stats" width="25" /> Statistics</h2>
 <!-- 1. Interactive Contribution Grid Snake Game Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/vishnu-vooredi/vishnu-vooredi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
