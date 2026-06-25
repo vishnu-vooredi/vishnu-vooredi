@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Vishnuvardhan! <img src="https://media.giphy.com/media/hvRJCLFwcasrR4ia7z/giphy.gif" width="30px"></h1>
+>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=Red&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
