@@ -7,8 +7,8 @@
 
 ### ⚡About me:
 * 💻 Senior CS Student
-* 🛠️ Building tools that automate the boring stuff.
-* 🎨 Fun fact: I spend too much time tweaking my IDE theme.
+* 🛠️ Building tools that automate the boring stuff
+* 🎨 Fun fact: I spend too much time tweaking my IDE theme
 * 🔭 I’m currently working on Ransomshield
 * 📫 Reach me at: voorediv@gmail.com
 
