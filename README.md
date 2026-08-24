@@ -18,7 +18,7 @@
 
   🤖 I am currently working on AI/ML and Full-Stack Development.  
 
-  🛠️ I build tools that automate the boring stuff (like Ransomshield ).  
+  🛠️ I build tools that automate the boring stuff.  
 
   🎨 I design aesthetic experiences while training models.  
 
