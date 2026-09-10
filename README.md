@@ -1,6 +1,6 @@
 <!-- MasterHead Banner --> <a href="https://github.com/vishnu-vooredi">
 
-<img width="100%" src="https://mhardik003.github.io/mhardik003/city_night.gif" alt="Cyberpunk Banner"/>
+<img width="100%" src="https://mhardik003.github.io/mhardik003/city_night.gif" alt="Cyberpunk Banner"/> 
 </a> <div align="center">
   <!-- Greeting -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&color=64ffda&center=true&vCenter=true&width=1000&height=80&lines=Hey%2C+it's+Vishnuvardhan+here+🔥!" alt="Typing SVG" />
