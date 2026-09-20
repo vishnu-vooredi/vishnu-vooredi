@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 👋 Hi, I'm Vishnu!<br><br>🎓 B.Tech CSE (AI/ML) student<br>💻 Interested in Python, Java, JavaScript & Full-Stack Development<br>🤖 Exploring AI/ML and AI-powered applications<br>🛠️ Building projects to solve practical problems<br>🌱 Currently improving my DSA, backend development & software engineering skills<br>🚀 Always curious to learn new technologies and build useful things<br><br>
 
