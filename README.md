@@ -1,7 +1,5 @@
 # 💫 About Me:
 👋 Hi, I'm Vishnu!<br><br>🎓 B.Tech CSE (AI/ML) student<br>💻 Interested in Python, Java, JavaScript & Full-Stack Development<br>🤖 Exploring AI/ML and AI-powered applications<br>🛠️ Building projects to solve practical problems<br>🌱 Currently improving my DSA, backend development & software engineering skills<br>🚀 Always curious to learn new technologies and build useful things<br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnuvardhan-vooredi18/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnuvardhanvooredi17@gmail.com) 
 
